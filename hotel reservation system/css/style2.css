@@ -1,0 +1,69 @@
+h1{
+    color:red;
+    }
+    table,th,td{
+    border: 2px solid blue;
+    border-collapse:collapse;
+    background-color:#883d21;
+    color:white;
+    }
+    table{
+    height:40%;
+    width:50%;
+    }
+    img{
+    height:30%;
+    width:40%;
+    }
+    
+    
+    
+    h1{
+        color:whitesmoke;
+        background-color:#5a0961;
+        font-family:cursive;
+        border:3px double white;
+        padding:10px;
+        }
+        p{
+        color:green;
+        }
+        li{
+        color:red;
+        }
+        h2{
+        color:tomato;
+        }
+        body{
+        background-color:#ddc8cb;
+        }
+        
+        .navbar{
+        background-color:#790517;
+        padding:10px;
+        }
+        .navbar a{
+        color:white;
+        padding:5px;
+        font-family:cursive;
+        font-size:20px;
+        font-weight:bold;
+        text-decoration:none;
+        }
+        .navbar a:hover{
+        background-color:#ddcacd;
+        color:#731635;
+        font-size:20px;
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        

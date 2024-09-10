@@ -1,0 +1,18 @@
+body{
+    background-color:#ddc8cb;
+    }
+    h1{
+    color:whitesmoke;
+    background-color:#5a0961;
+    font-family:cursive;
+    border:3px double white;
+    padding:10px;
+    }
+    form{
+    border:2px solid black;
+    margin-left:300px;
+    padding:30px;
+    margin-right:300px;
+    }
+    
+    
